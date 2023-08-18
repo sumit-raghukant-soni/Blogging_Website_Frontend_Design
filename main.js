@@ -16,6 +16,7 @@ const closeNav = () => {
     openBtn.style.display = "inline-block";
 }
 
+
 openBtn.addEventListener('click', openNav);
 closeBtn.addEventListener('click', closeNav);
 
