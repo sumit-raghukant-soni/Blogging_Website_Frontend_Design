@@ -1,0 +1,33 @@
+
+:root {
+    --color-primary: #f0f0f0;
+    --color-primary-light:rgba(37, 24, 221, 0.5);
+    --color-primary-variant: #5854c7;
+    --color-red: white;
+    --color-red-light: hsl(346, 87%, 46%, 75%);
+    --color-green: #00c476;
+    --color-green-light: hsl(156, 100%, 38%, 45%);
+    --color-gray-900: rgba(180, 133, 255, 0.3);
+    --color-gray-700: rgba(200, 184, 255, 0.5);
+    --color-gray-300: rgba(227, 214, 255, 0.8);
+    --color-gray-200: #000000;
+    --color-white: #000000;
+    --color-bg: #ffffff;
+    --input-placeholder: black;
+    --social-bg: var(--color-primary-light);
+    --social-color: #ffffff;
+
+
+    --transition: all 300ms ease;
+
+    --container-width-lg: 74%;
+    --container-width-md: 88%;
+    --form-width: 40%;
+
+    --card-border-radius-1: 0.3rem;
+    --card-border-radius-2: 0.5rem;
+    --card-border-radius-3: 0.8rem;
+    --card-border-radius-4: 2rem;
+    --card-border-radius-5: 5rem;
+
+}
